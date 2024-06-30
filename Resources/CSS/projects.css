@@ -273,7 +273,7 @@ nav li a:active {
     }
 }
 
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 430px) {
    
     .content {
         padding: 2rem 1rem;
