@@ -245,7 +245,7 @@ nav li a:active {
   scrollbar-width: none;  /* Firefox */
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1024px) {
     .content {
         display: flex;
         flex-flow: row nowrap;
@@ -320,7 +320,7 @@ nav li a:active {
     }
 }
 
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 430px) {
    
     .content {
         padding: 2rem 1rem;
