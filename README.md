@@ -10,7 +10,7 @@
 driven by profound philosophical values centered around "The progression of
 Humanity." We approach challenges with logical strategies, using innovative thinking
 to achieve lasting results for generations to come. Our core philosophy and motto,
-"Taking responsibility for the Future," define our operations
+"Taking responsibility for the Future," define our operations.
 <br>
 <br>
 
